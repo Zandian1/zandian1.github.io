@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <h1>This is the website I use to practice and test what does and doesn't work</h1>
+  <h1>Welcome! I use this website to practice and showcase what I'm working on</h1>
   </head>
   <i>To see the source for this website <a href="https://raw.githubusercontent.com/Zandian1/zandian1.github.io/master/index.md">here</a></i><br><br>
   <body>
@@ -28,7 +28,7 @@
   Link to University of Helsinki's <a href="https://moocfi.github.io/courses/2013/programming-part-1/">Java course</a>
   </p2>
   <br>
-  <p3>
+  <h3>
   <br>
   <input type="text" placeholder="This field has text">
   <br>
@@ -45,7 +45,7 @@
   <label> 
     <input type="radio" name="yes-no">No 
   </label>
-  </p3>
+  </h3>
   
   <h2>
   Current Trajectory
