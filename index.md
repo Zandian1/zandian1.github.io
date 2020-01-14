@@ -51,23 +51,23 @@
   Current Trajectory
   </h2>
   <p4>
-  <label> <input type="checkbox" name="trajectory" checked> Java </label>
+  <label> <input type="checkbox" name="trajectory" checked> Java </label><br>
   
-  <label> <input type="checkbox" name="trajectory" checked> HTML </label>
+  <label> <input type="checkbox" name="trajectory" checked> HTML </label><br>
   
-  <label> <input type="checkbox" name="trajectory" checked> CSS </label>
+  <label> <input type="checkbox" name="trajectory" checked> CSS </label><br>
   
-  <label> <input type="checkbox" name="trajectory" checked> JavaScript </label>
+  <label> <input type="checkbox" name="trajectory"> JavaScript </label><br>
   
-  <label> <input type="checkbox" name="trajectory" checked> BootStrap </label>
+  <label> <input type="checkbox" name="trajectory"> BootStrap </label><br>
   
-  <label> <input type="checkbox" name="trajectory" checked> jQuery </label>
+  <label> <input type="checkbox" name="trajectory"> jQuery </label><br>
   
-  <label> <input type="checkbox" name="trajectory" checked> Sass </label>
+  <label> <input type="checkbox" name="trajectory"> Sass </label><br>
   
-  <label> <input type="checkbox" name="trajectory" checked> React </label>
+  <label> <input type="checkbox" name="trajectory"> React </label><br>
   
-  <label> <input type="checkbox" name="trajectory" checked> Redux </label>
+  <label> <input type="checkbox" name="trajectory"> Redux </label><br>
     
   
   
