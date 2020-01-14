@@ -87,7 +87,7 @@ source code for <a href="https://raw.githubusercontent.com/Zandian1/Repository/m
 The Clock Timer is basically a counting script starting from 0 and looping at 23:59:59 - This code uses two classes in order to run. The times 23, 59, 59 have been bounded as the upper limit before it calls the second class to increase the next integer (second->minute->).<br>
 After it reaches the maximum time of 23:59:59 resets back to 0 to start the loop again. This uses the Java method "sleep" while looping/counting up, set at 1,000 milliseconds for the code to maintain 1 second intervals.<br>
   <img src="https://user-images.githubusercontent.com/59313072/72336699-05d26b00-370d-11ea-8022-6dab29e0fbfa.png" alt="Start">
-  <img src="https://user-images.githubusercontent.com/59313072/72336718-0bc84c00-370d-11ea-9326-e23d240988cd.png" alt="Next"><br>
+  <img src="https://user-images.githubusercontent.com/59313072/72336718-0bc84c00-370d-11ea-9326-e23d240988cd.png" alt="Next"><br><br><br>
   <b>FizzBuzz</b><br>
   <i>To see the source for this click <a href="https://raw.githubusercontent.com/Zandian1/Repository/master/Java/FizzBuzz">here</a></i><br><br>
   
