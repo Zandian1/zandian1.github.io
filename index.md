@@ -52,7 +52,7 @@
   </h2>
   
   <p4>
-  Updated occassionally, giving overview on how things are progressing.<br>
+  Updated occassionally, giving an overview on how things are progressing.<br>
   
   <label> <input type="checkbox" name="trajectory" checked> Java </label><br>
   
