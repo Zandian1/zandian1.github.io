@@ -38,6 +38,7 @@
   <br>
   <br>
   These buttons are dependant on each other - meaning you can't select both.
+  <br>
   <label> 
     <input type="radio" name="yes-no">Yes 
   </label>
