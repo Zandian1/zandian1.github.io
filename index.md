@@ -80,9 +80,9 @@
   <b>Clock Timer Script</b><br>
   <i>To see the source folder for this click <a href="https://github.com/Zandian1/Repository/tree/master/Java/Clock%20Timer/src/com/company">here</a></i><br>
   
-source code for <a href="https://raw.githubusercontent.com/Zandian1/Repository/master/Java/Clock%20Timer/src/com/company/Main.java">Main.java</a><br>
+<i>Source code for <a href="https://raw.githubusercontent.com/Zandian1/Repository/master/Java/Clock%20Timer/src/com/company/Main.java">Main.java</a></i><br>
 
-source code for <a href="https://raw.githubusercontent.com/Zandian1/Repository/master/Java/Clock%20Timer/src/com/company/BoundedCounter.java">BoundedCounter.java</a><br>
+<i>Source code for <a href="https://raw.githubusercontent.com/Zandian1/Repository/master/Java/Clock%20Timer/src/com/company/BoundedCounter.java">BoundedCounter.java</a></i><br><br>
   
 The Clock Timer is basically a counting script starting from 0 and looping at 23:59:59 - This code uses two classes in order to run. The times 23, 59, 59 have been bounded as the upper limit before it calls the second class to increase the next integer (second->minute->).<br>
 After it reaches the maximum time of 23:59:59 resets back to 0 to start the loop again. This uses the Java method "sleep" while looping/counting up, set at 1,000 milliseconds for the code to maintain 1 second intervals.<br>
