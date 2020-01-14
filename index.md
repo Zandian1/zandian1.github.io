@@ -30,13 +30,11 @@
   <input type="text" placeholder="Goes when typed in">
   <br>
   <button type="submit">submit?</button>
+  <br>
   
-  <label>
-    <input type="radio" name"Yes-no">Yes or no buttons
-  </label>
-  <label>
-    <input type="radio" name"Yes-no">Only one can be selected
-  </label>
+<label> 
+  <input type="radio" name="indoor-outdoor">Indoor 
+</label>
   
   </body>
   
