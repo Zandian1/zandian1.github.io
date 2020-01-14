@@ -54,6 +54,20 @@
   <label> <input type="checkbox" name="trajectory" checked> Java </label>
   
   <label> <input type="checkbox" name="trajectory" checked> HTML </label>
+  
+  <label> <input type="checkbox" name="trajectory" checked> CSS </label>
+  
+  <label> <input type="checkbox" name="trajectory" checked> JavaScript </label>
+  
+  <label> <input type="checkbox" name="trajectory" checked> BootStrap </label>
+  
+  <label> <input type="checkbox" name="trajectory" checked> jQuery </label>
+  
+  <label> <input type="checkbox" name="trajectory" checked> Sass </label>
+  
+  <label> <input type="checkbox" name="trajectory" checked> React </label>
+  
+  <label> <input type="checkbox" name="trajectory" checked> Redux </label>
     
   
   
