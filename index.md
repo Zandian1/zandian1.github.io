@@ -50,7 +50,10 @@
   <h2>
   Current Trajectory
   </h2>
+  
   <p4>
+  Updated occassionally, giving overview on how things are progressing.<br>
+  
   <label> <input type="checkbox" name="trajectory" checked> Java </label><br>
   
   <label> <input type="checkbox" name="trajectory" checked> HTML </label><br>
