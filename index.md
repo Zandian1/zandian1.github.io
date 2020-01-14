@@ -36,7 +36,8 @@
   <br>
   <button type="submit">submit?</button>
   <br>
-  
+  <br>
+  These buttons are dependant on each other - meaning you can't select both.
   <label> 
     <input type="radio" name="yes-no">Yes 
   </label>
@@ -44,6 +45,11 @@
     <input type="radio" name="yes-no">No 
   </label>
   </p3>
+  
+  <h2>
+  Current Trajectory
+  </h2>
+  
   
   </body>
   
