@@ -24,9 +24,10 @@
   <br>
   <p2>
   Along side web development, continuing to learn Java using University of Helsinki MOOC course.
+  <br>
   Link to University of Helsinki's <a href="https://moocfi.github.io/courses/2013/programming-part-1/">Java course</a>
   </p2>
-  
+  <br>
   <p3>
   <br>
   <input type="text" placeholder="This field has text">
