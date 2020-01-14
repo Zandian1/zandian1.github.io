@@ -114,6 +114,9 @@ After it reaches the maximum time of 23:59:59 resets back to 0 to start the loop
  <img src="https://user-images.githubusercontent.com/59313072/72339567-39fc5a80-3712-11ea-9c3c-203b7b77eb83.png" alt="Start">
  <img src="https://user-images.githubusercontent.com/59313072/72339571-3bc61e00-3712-11ea-98fb-3408f08bebb5.png" alt="Start">
  <br><br>
+ 
+ <b>SimpleCalculator</b><br>
+  <i>To see the source for this click <a href="https://raw.githubusercontent.com/Zandian1/Repository/master/Java/SimpleCalculator">here</a></i><br><br>
   
  
  
