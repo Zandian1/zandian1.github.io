@@ -28,6 +28,7 @@
   <input type="text" placeholder="Field has text">
   <br>
   <input type="text" placeholder="Disappear when text entered">
+  <br>
   <button type="submit">submit?</button>
   
   <label>
