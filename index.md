@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html>
+  
   <head>
   <h1>Welcome! I use this website to practice and showcase what I'm working on</h1>
   </head>
+  
   <i>To see the source for this website <a href="https://raw.githubusercontent.com/Zandian1/zandian1.github.io/master/index.md">here</a></i><br><br>
+  
   <body>
   <p1>
   On-going self study attempting to learn HTML CSS and Javascript, stay tuned.
-  <br>
+  <br></p1>
     
-  </p1>
   <ul>
    <li>Java</li>
    <li>HTML</li>
@@ -21,26 +23,21 @@
    <li>React</li>
    <li>Redux</li>
   </ul>
-  <br>
-  <p2>
-  Along side web development, continuing to learn Java using University of Helsinki MOOC course.
-  <br>
+  
+  <br><p2>
+  Along side web development, continuing to learn Java using University of Helsinki MOOC course. <br>
   Link to University of Helsinki's <a href="https://moocfi.github.io/courses/2013/programming-part-1/">Java course</a>
-  </p2>
-  <br>
+  <br></p2>
   
   <h3>Useful Placeholders</h3>
-  <p3>
-  <br>
+  <p3><br>
   <input type="text" placeholder="This field has text">
   <br>
   <input type="text" placeholder="Goes when typed in">
   <br>
   <button type="submit">submit?</button>
   <br>
-  <br>
-  These buttons are dependant on each other - meaning you can't select both.
-  <br>
+  <br>These buttons are dependant on each other - meaning you can't select both.<br>
   <label> 
     <input type="radio" name="yes-no">Yes 
   </label>
@@ -48,7 +45,6 @@
     <input type="radio" name="yes-no">No 
   </label>
   </p3>
-  
   
   <h2>
   Current Trajectory
@@ -79,6 +75,7 @@
   <h3>
   Java Projects
   </h3>
+  
   <p5>
   <b>Clock Timer Script</b><br>
   <i>To see the source folder for this click <a href="https://github.com/Zandian1/Repository/tree/master/Java/Clock%20Timer/src/com/company">here</a></i><br>
@@ -126,13 +123,7 @@ After it reaches the maximum time of 23:59:59 resets back to 0 to start the loop
  <img src="https://user-images.githubusercontent.com/59313072/72340076-41703380-3713-11ea-8bf9-7b4c81de4533.png" alt="Start">
  <br>
  </p5>
-  
  
- 
-  
-    
-  
-  
   </body>
   
    
