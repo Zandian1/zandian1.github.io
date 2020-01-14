@@ -101,6 +101,7 @@ After it reaches the maximum time of 23:59:59 resets back to 0 to start the loop
   
   <b>InputReverser</b><br>
   <i>To see the source for this click <a href="https://raw.githubusercontent.com/Zandian1/Repository/master/Java/InputReverser">here</a></i><br><br>
+  This code receives input from the user and reverses it. This is done by using the (.length) java method to get the overall length of the word and using that number to start at the end and printing one letter at a time. This also detects if the input is a palindrome.<br>
  
   
     
