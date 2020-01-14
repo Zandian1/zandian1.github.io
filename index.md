@@ -28,7 +28,7 @@
   <input type="text" placeholder="Field has text">
   <br>
   <input type="text" placeholder="Disappear when text entered">
-  <button type"submit">submit?</button>
+  <button type="submit">submit?</button>
   
   <label>
     <input type"radio" name"Yes-no">Yes or no buttons
