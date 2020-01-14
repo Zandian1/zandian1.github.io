@@ -14,12 +14,12 @@
    <li>Java</li>
    <li>HTML</li>
    <li>CSS</li>
-  <li>JavaScript</li>
-  <li>Bootstrap</li>
-  <li>jQuery</li>
-  <li>Sass</li>
-  <li>React</li>
-  <li>Redux</li>
+   <li>JavaScript</li>
+   <li>Bootstrap</li>
+   <li>jQuery</li>
+   <li>Sass</li>
+   <li>React</li>
+   <li>Redux</li>
   </ul>
   <br>
   <p2>
@@ -49,6 +49,10 @@
   <h2>
   Current Trajectory
   </h2>
+  <p4>
+    <label> 
+      <input type="checkbox" name="trajectory" checked>Java 
+    </label>
   
   
   </body>
