@@ -32,10 +32,10 @@
   <button type="submit">submit?</button>
   
   <label>
-    <input type"radio" name"Yes-no">Yes or no buttons
+    <input type="radio" name"Yes-no">Yes or no buttons
   </label>
   <label>
-    <input type"radio" name"Yes-no">Only one can be selected
+    <input type="radio" name"Yes-no">Only one can be selected
   </label>
   
   </body>
