@@ -78,7 +78,6 @@
   
   <p5>
   <b>Clock Timer Script</b><br>
-  <i>To see the source folder for this click <a href="https://github.com/Zandian1/Repository/tree/master/Java/Clock%20Timer/src/com/company">here</a></i><br>
   
 <i>Source code for <a href="https://raw.githubusercontent.com/Zandian1/Repository/master/Java/Clock%20Timer/src/com/company/Main.java">Main.java</a></i><br>
 
@@ -101,6 +100,7 @@ After it reaches the maximum time of 23:59:59 resets back to 0 to start the loop
   
   <b>InputReverser</b><br>
   <i>To see the source for this click <a href="https://raw.githubusercontent.com/Zandian1/Repository/master/Java/InputReverser">here</a></i><br><br>
+  
   This code receives input from the user and reverses it. This is done by using the (.length) java method to get the overall length of the word and using that number to start at the end and printing one letter at a time. This also detects if the input is a palindrome.<br><br>
  
  <img src="https://user-images.githubusercontent.com/59313072/72338794-f48b5d80-3710-11ea-9027-ce4a37259e06.png" alt="Start">
@@ -109,6 +109,7 @@ After it reaches the maximum time of 23:59:59 resets back to 0 to start the loop
  
  <b>NumberGuessingGame</b><br>
   <i>To see the source for this click <a href="https://raw.githubusercontent.com/Zandian1/Repository/master/Java/NumberGuessingGame">here</a></i><br><br>
+  
   This selects a random number using "Random().nextInt(101);" and assigns that number to an int. The code receives input from the user and responds depending on if the entered number is higher or lower. In addition it also keeps track of how many guesses the user has taken.<br><br>
   
  <img src="https://user-images.githubusercontent.com/59313072/72339567-39fc5a80-3712-11ea-9c3c-203b7b77eb83.png" alt="Start">
@@ -117,6 +118,7 @@ After it reaches the maximum time of 23:59:59 resets back to 0 to start the loop
  
  <b>SimpleCalculator</b><br>
   <i>To see the source for this click <a href="https://raw.githubusercontent.com/Zandian1/Repository/master/Java/SimpleCalculator">here</a></i><br><br>
+  
   This is a simple calculator which takes input from the user as both number input and command selection. Currently supports addition, subtraction, multiplication and x^y.<br><br>
   
  <img src="https://user-images.githubusercontent.com/59313072/72340078-43d28d80-3713-11ea-9440-2200f751b9b2.png" alt="Start">
