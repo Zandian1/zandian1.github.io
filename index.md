@@ -8,8 +8,8 @@
   <p1>
   On-going self study attempting to learn HTML CSS and Javascript, stay tuned.
   <br>
+    
   </p1>
-  
   <ul>
    <li>Java</li>
    <li>HTML</li>
@@ -27,6 +27,7 @@
   <br>
   <input type="text" placeholder="The field is filled with text">
   <input type="text" placeholder="Which disappears once something is entered">
+  <button type"submit">submit?</button>
   
   </body>
   
