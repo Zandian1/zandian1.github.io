@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <h1>Under Construction</h1>
+  <h1>This is the website I use to practice and test what does and doesn't work</h1>
   </head>
   
   <body>
@@ -53,6 +53,18 @@
   <p4>
     <label> 
       <input type="checkbox" name="trajectory" checked>Java 
+    </label>
+  
+    <label> 
+      <input type="checkbox" name="trajectory" checked>HTML 
+    </label>
+    
+    <label> 
+      <input type="checkbox" name="trajectory" checked>CSS 
+    </label>
+    
+    <label> 
+      <input type="checkbox" name="trajectory" checked>JavaScript 
     </label>
   
   
