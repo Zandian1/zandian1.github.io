@@ -25,9 +25,9 @@
   <p2>
   University of Helsinki <a href="https://moocfi.github.io/courses/2013/programming-part-1/">Java course</a>
   <br>
-  <input type="text" placeholder="Field has text">
+  <input type="text" placeholder="This field has text">
   <br>
-  <input type="text" placeholder="Disappear when text entered">
+  <input type="text" placeholder="Goes when typed in">
   <br>
   <button type="submit">submit?</button>
   
