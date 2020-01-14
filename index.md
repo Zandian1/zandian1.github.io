@@ -51,21 +51,10 @@
   Current Trajectory
   </h2>
   <p4>
-    <label> 
-      <input type="checkbox" name="trajectory" checked>Java 
-    </label>
+  <label> <input type="checkbox" name="trajectory" checked> Java </label>
   
-    <label> 
-      <input type="checkbox" name="trajectory" checked>HTML 
-    </label>
+  <label> <input type="checkbox" name="trajectory" checked> HTML </label>
     
-    <label> 
-      <input type="checkbox" name="trajectory" checked>CSS 
-    </label>
-    
-    <label> 
-      <input type="checkbox" name="trajectory" checked>JavaScript 
-    </label>
   
   
   </body>
