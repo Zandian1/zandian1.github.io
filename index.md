@@ -117,6 +117,12 @@ After it reaches the maximum time of 23:59:59 resets back to 0 to start the loop
  
  <b>SimpleCalculator</b><br>
   <i>To see the source for this click <a href="https://raw.githubusercontent.com/Zandian1/Repository/master/Java/SimpleCalculator">here</a></i><br><br>
+  This is a simple calculator which takes input from the user as both number input and command selection. Currently supports addition, subtraction, multiplication and x^y.<br><br>
+  
+ <img src="https://user-images.githubusercontent.com/59313072/72340078-43d28d80-3713-11ea-9440-2200f751b9b2.png" alt="Start">
+ <img src="https://user-images.githubusercontent.com/59313072/72340076-41703380-3713-11ea-8bf9-7b4c81de4533.png" alt="Start">
+ <br>
+ </p5>
   
  
  
