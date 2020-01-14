@@ -93,8 +93,9 @@ After it reaches the maximum time of 23:59:59 resets back to 0 to start the loop
   <b>FizzBuzz</b><br>
   <i>To see the source for this click <a href="https://raw.githubusercontent.com/Zandian1/Repository/master/Java/FizzBuzz">here</a></i><br><br>
   Famous FizzBuzz code, script counts up to 100 (you can change the number easily if you wish) printing each along the way. If the number is divisible by 3 it needs to print "Fizz". If the number is divisible by 5, "Buzz". However if it is both divisible by 3 and 5 it needs to print "FizzBuzz".<br><br>
-  <img src="https://user-images.githubusercontent.com/59313072/72338049-5fd43000-370f-11ea-88a4-a2a82e40e945.png" alt="Start">
+  
   <img src="https://user-images.githubusercontent.com/59313072/72338060-6498e400-370f-11ea-9421-6e5fb1278266.png" alt="Start">
+  <img src="https://user-images.githubusercontent.com/59313072/72338049-5fd43000-370f-11ea-88a4-a2a82e40e945.png" alt="Start">
   
  
   
