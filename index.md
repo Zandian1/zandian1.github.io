@@ -28,7 +28,9 @@
   Link to University of Helsinki's <a href="https://moocfi.github.io/courses/2013/programming-part-1/">Java course</a>
   </p2>
   <br>
-  <h3>
+  
+  <h3>Useful Placeholders</h3>
+  <p3>
   <br>
   <input type="text" placeholder="This field has text">
   <br>
@@ -45,7 +47,8 @@
   <label> 
     <input type="radio" name="yes-no">No 
   </label>
-  </h3>
+  </p3>
+  
   
   <h2>
   Current Trajectory
