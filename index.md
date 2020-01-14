@@ -23,7 +23,8 @@
   </ul>
   <br>
   <p2>
-  University of Helsinki <a href="https://moocfi.github.io/courses/2013/programming-part-1/">Java course</a>
+  Along side web development, continuing to learn Java using University of Helsinki MOOC course.
+  Link to University of Helsinki's <a href="https://moocfi.github.io/courses/2013/programming-part-1/">Java course</a>
   <br>
   <input type="text" placeholder="This field has text">
   <br>
@@ -33,7 +34,10 @@
   <br>
   
 <label> 
-  <input type="radio" name="indoor-outdoor">Indoor 
+  <input type="radio" name="yes-no">Yes 
+</label>
+<label> 
+  <input type="radio" name="yes-no">No 
 </label>
   
   </body>
