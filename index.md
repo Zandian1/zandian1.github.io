@@ -12,6 +12,8 @@
   <p1>
   On-going self study attempting to learn HTML CSS and Javascript, stay tuned.
   <br></p1>
+  
+  <a href="#bottom-link">Go to Bottom</a>
     
   <ul>
    <li>Java</li>
@@ -127,7 +129,7 @@
  <br>
  </p5>
  
-  </body>
+  </body id="bottom-link">
   
    
  
