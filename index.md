@@ -12,8 +12,6 @@
   <p1>
   On-going self study attempting to learn HTML CSS and Javascript, stay tuned.
   <br></p1>
-  
-  <a href="#bottom-link">Link to Bottom</a>
     
   <ul>
    <li>Java</li>
@@ -126,7 +124,7 @@
   
  <img src="https://user-images.githubusercontent.com/59313072/72340078-43d28d80-3713-11ea-9440-2200f751b9b2.png" alt="Start">
  <img src="https://user-images.githubusercontent.com/59313072/72340076-41703380-3713-11ea-8bf9-7b4c81de4533.png" alt="Start">
- <br id="bottom-link">
+ <br>
  </p5>
  
   </body>
