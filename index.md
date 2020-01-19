@@ -25,9 +25,9 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(h
 
 <div class="hero-image">
   <div class="hero-text">
-    <h1>I am John Doe</h1>
-    <p>And I'm a Photographer</p>
-    <button>Hire me</button>
+    <h1>I am Zander</h1>
+    <p>Welcome</p>
+    <button>-This is a Test Website-</button>
   </div>
 </div>
 
