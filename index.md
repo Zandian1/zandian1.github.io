@@ -3,10 +3,6 @@
   line-height:30px;
 }    
 </style>
-
-<aside id="sidebar">
-<p>Test<p>
-        </aside>
     
 <head>
 <h1>Welcome! I use this website to practice</h1><br>
