@@ -1,39 +1,5 @@
 <!DOCTYPE html>
 
-body, html {
-    height: 100%;
-}
-
-.hero-image {
-background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-
-<img src = https://user-images.githubusercontent.com/59313072/72674055-18a6c000-3abe-11ea-9508-0aedd1610295.jpg>
-  height: 50%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
-
-.hero-text {
-  text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-}
-
-<div class="hero-image">
-  <div class="hero-text">
-    <h1>I am Zander</h1>
-    <p>Welcome</p>
-    <button>-This is a Test Website-</button>
-  </div>
-</div>
-
-
 <html>
   
   <head>
