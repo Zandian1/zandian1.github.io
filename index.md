@@ -1,6 +1,6 @@
 <style>
 *{
-  line-height:40px;
+  line-height:30px;
 }
 </style>
 <!DOCTYPE html>
