@@ -1,45 +1,13 @@
 <style>
 *{
-  line-height:30px;
-}
-    body, html {
-    height: 100%;
-}
-
-.hero-image {
-
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://user-images.githubusercontent.com/59313072/72674055-18a6c000-3abe-11ea-9508-0aedd1610295.jpg);
-
-  height: 50%;
-    width:100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
-.hero-text {
-  text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-}    
+   
     
 </style>
 
 <html>
   
   <head>
-      
-<div class="hero-image">
-  <div class="hero-text">
-    <h1>Z</h1>
-    <p>TEST</p>
-    <button>-This is a Testing website-</button>
-  </div>
-</div>
+
       
   <h1>Welcome! I use this website to practice and showcase what I'm working on</h1>
   </head>
