@@ -20,7 +20,7 @@
 
   <i>Source code for <a                           href="https://raw.githubusercontent.com/Zandian1/Repository/master/Java/Clock%20Timer/src/com/company/BoundedCounter.java">BoundedCounter.java</a></i><br><br>
   
-  The Clock Timer is basically a counting script starting from 0 and looping at 23:59:59 - This code uses two classes in order   to run. The times 23, 59, 59 have been bounded as the upper limit before it calls the second class to increase the next       integer (second->minute->).<br>
+  The Clock Timer is a timing script starting from 0 and looping at 23:59:59 - This code uses two classes in order   to run. The times 23, 59, 59 have been bounded as the upper limit before it calls the second class to increase the next       integer (second->minute->hour).<br>
 
   After it reaches the maximum time of 23:59:59 resets back to 0 to start the loop again. This uses the Java method "sleep"     while looping/counting up, set at 1,000 milliseconds for the code to maintain 1 second intervals.<br><br>
   <img src="https://user-images.githubusercontent.com/59313072/72336699-05d26b00-370d-11ea-8022-6dab29e0fbfa.png" alt="Start">
