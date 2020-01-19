@@ -25,7 +25,7 @@
    <li>Redux</li>
   </ul>
   
-  <br><h2>Java Projects</h2>
+  <h2>Java Projects</h2>
   <p2>
   Along side web development, I am also learning how to program using Java. I am using books from university and a selection of courses offered by the University of Helsinki. <br>
   Link to University of Helsinki's <a href="https://moocfi.github.io/courses/2013/programming-part-1/">Java course</a>
