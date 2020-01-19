@@ -4,11 +4,8 @@
 }
     
 </style>
-
-
-<section >
     
-    <head id="top">
+<head>
 <h3>Welcome! I use this website to practice and showcase what I'm working on. While currently coded using HTML & CSS new features will be added soon</h3>
 </head>
   <body>
@@ -85,7 +82,7 @@
     <p><a href="#top">Return to top</a></p>
  
   </body>
-</section>
+
   
    
  
