@@ -3,7 +3,6 @@
   line-height:30px;
 }
 </style>
-<!DOCTYPE html>
 <html>
   
   <head>
