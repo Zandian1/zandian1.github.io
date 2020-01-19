@@ -1,7 +1,7 @@
 
-  <h3>
+  <h1>
   Java Projects
-  </h3>
+  </h1>
   
   <p5>
   <b>Clock Timer Script</b><br>
