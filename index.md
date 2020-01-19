@@ -10,7 +10,7 @@
   
   <body>
   <p1>
-  On-going self study attempting to learn HTML CSS and Javascript, stay tuned.
+  On-going study to learn HTML CSS and Javascript which will be implemented on this website, stay tuned.
   <br></p1>
     
   <ul>
@@ -25,10 +25,11 @@
    <li>Redux</li>
   </ul>
   
+  <br><h2>Java Projects</h2><br>
   <br><p2>
   Along side web development, continuing to learn Java using University of Helsinki MOOC course. <br>
   Link to University of Helsinki's <a href="https://moocfi.github.io/courses/2013/programming-part-1/">Java course</a>
-  <br></p2>
+  <br> To see my list of java projects so far <a href="https://zandian1.github.io/JavaProjects">click here!</a></p2>
   
   <h3>Useful Placeholders</h3>
   <p3><br>
