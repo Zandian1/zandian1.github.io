@@ -5,7 +5,9 @@ body, html {
 }
 
 .hero-image {
-background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), (https://user-images.githubusercontent.com/59313072/72674055-18a6c000-3abe-11ea-9508-0aedd1610295.jpg);
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+
+img src = https://user-images.githubusercontent.com/59313072/72674055-18a6c000-3abe-11ea-9508-0aedd1610295.jpg;
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
