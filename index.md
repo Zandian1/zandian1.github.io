@@ -25,8 +25,8 @@
    <li>Redux</li>
   </ul>
   
-  <br><h2>Java Projects</h2><br>
-  <br><p2>
+  <br><h2>Java Projects</h2>
+  <p2>
   Along side web development, continuing to learn Java using University of Helsinki MOOC course. <br>
   Link to University of Helsinki's <a href="https://moocfi.github.io/courses/2013/programming-part-1/">Java course</a>
   <br> To see my list of java projects so far <a href="https://zandian1.github.io/JavaProjects">click here!</a></p2>
