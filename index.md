@@ -13,7 +13,7 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), (http
   position: relative;
 }
 
-/* Place text in the middle of the image */
+
 .hero-text {
   text-align: center;
   position: absolute;
