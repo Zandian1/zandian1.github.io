@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 
-<html>
+<html lang=en>
   
   <head>
-  <h>Welcome! I use this website to practice and showcase what I'm working on</h>
+  <meta charset="utf-8">
+  <title>Test title</title>
+  <link rel="stylesheet" href="https://github.com/Zandian1/zandian1.github.io/blob/master/stylesheet.css"
+  <h1>Welcome! I use this website to practice and showcase what I'm working on</h>
   </head>
   
   <i>To see the source for this website <a href="https://raw.githubusercontent.com/Zandian1/zandian1.github.io/master/index.md">here</a></i><br><br>
@@ -128,6 +131,7 @@
  </p5>
  
   </body>
+</html>
   
    
  
