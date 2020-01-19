@@ -1,9 +1,41 @@
-
 <!DOCTYPE html>
+
+body, html {
+    height: 100%;
+}
+
+.hero-image {
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://user-images.githubusercontent.com/59313072/72674055-18a6c000-3abe-11ea-9508-0aedd1610295.jpg);
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+<div class="hero-image">
+  <div class="hero-text">
+    <h1>I am John Doe</h1>
+    <p>And I'm a Photographer</p>
+    <button>Hire me</button>
+  </div>
+</div>
+
+
 <html>
   
   <head>
-  <h1>Welcome! I use this website to practice and showcase what I'm working on</h1>
+  <h>Welcome! I use this website to practice and showcase what I'm working on</h>
   </head>
   
   <i>To see the source for this website <a href="https://raw.githubusercontent.com/Zandian1/zandian1.github.io/master/index.md">here</a></i><br><br>
