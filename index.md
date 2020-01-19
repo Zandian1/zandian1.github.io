@@ -1,4 +1,6 @@
-
+*{
+  line-height:25px;
+}
 <!DOCTYPE html>
 <html>
   
