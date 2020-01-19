@@ -3,6 +3,18 @@
   line-height:30px;
 }    
 </style>
+
+<aside id="sidebar">
+          {% if site.show_downloads %}
+            <a href="{{ site.github.zip_url }}" class="button">
+              <small>Download</small>
+              .zip file
+            </a>
+            <a href="{{ site.github.tar_url }}" class="button">
+              <small>Download</small>
+              .tar.gz file
+            </a>
+        </aside>
     
 <head>
 <h1>Welcome! I use this website to practice</h1>
