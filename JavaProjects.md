@@ -5,7 +5,6 @@
 </style>
 
  <p>To see the souce for this page <a href="https://raw.githubusercontent.com/Zandian1/zandian1.github.io/master/JavaProjects.md">click here</a><br>
-To return home <a href="https://zandian1.github.io/">click here</a></p>
 
   <h1>
   Java Projects
