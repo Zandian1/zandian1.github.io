@@ -29,7 +29,8 @@
   <p2>
   Along side web development, continuing to learn Java using University of Helsinki MOOC course. <br>
   Link to University of Helsinki's <a href="https://moocfi.github.io/courses/2013/programming-part-1/">Java course</a>
-  <br> To see my list of java projects so far <a href="https://zandian1.github.io/JavaProjects">click here!</a></p2>
+  
+  <br><br><i> To see my list of java projects so far <a href="https://zandian1.github.io/JavaProjects">click here!</a></i></p2>
   
   <h3>Useful Placeholders</h3>
   <p3><br>
