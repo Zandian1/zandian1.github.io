@@ -80,7 +80,7 @@
   <br>
     <p><a href="#top">Return to top</a></p>
     <hr>
-    <p>&copy;Zander Starkey 2020</p>
+    <p>&copy; 2020 Zander Starkey</p>
  
   </body>
 
