@@ -79,7 +79,7 @@
   </p4>
   <br>
     <p><a href="#top">Return to top</a></p>
-    <p>hr</p>
+    <hr>
     <p>&copy;Zander Starkey 2020</p>
  
   </body>
