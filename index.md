@@ -5,7 +5,7 @@
 </style>
     
 <head>
-<h1>Welcome! I use this website to practice</h1><br>
+<h1>Welcome! This website was coded by me using HTML & CSS</h1><br>
 </head>
   <body>
   <i>To see the source for this website <a href="https://raw.githubusercontent.com/Zandian1/zandian1.github.io/master/index.md">here</a></i><br><br>
